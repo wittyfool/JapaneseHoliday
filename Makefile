@@ -1,0 +1,3 @@
+def:
+	node . > out.txt
+
