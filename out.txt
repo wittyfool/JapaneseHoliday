@@ -1,4 +1,4 @@
-#Tue 01 Dec 2020 02:30:01 AM JST
+#Tue 15 Dec 2020 02:30:01 AM JST
 # Upcoming 100 events:
 2021-01-01 - 元日
 2021-01-11 - 成人の日
